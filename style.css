@@ -1,4 +1,4 @@
-body {
+body { 
     font-family:initial;
     background:whitesmoke;
     display: flex;
@@ -21,15 +21,16 @@ h2 {
     margin-bottom: 20px;
 }
 
+.input-group {
+    margin-bottom: 15px;
+    position: relative;
+}
+
 label {
     display: block;
     font-weight: bold;
 }
 
-.input-group {
-    margin-bottom: 15px;
-    position: relative;
-}
 input {
     width: 100%;
     padding: 8px;
